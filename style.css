@@ -20,8 +20,7 @@ html, body {
 }
 
 body {
-  background: rgb(146,63,251);
-  background: linear-gradient(90deg, rgba(146,63,251,1) 0%, rgba(90,205,91,1) 79%, rgba(85,141,255,1) 100%);
+  background-image: linear-gradient(144deg, rgba(18, 102, 132, 0.7472561867421326) 59%, rgba(255, 163, 173, 0.5) 59%),linear-gradient(153deg, rgba(52, 151, 201, 0.6129517233118806) 50%, rgba(255, 140, 147, 0.5) 16%),linear-gradient(23deg, rgba(75, 146, 244, 0.5505294152200417) 49%, rgba(239, 123, 107, 0.5) 63%),linear-gradient(74deg, rgba(7, 94, 175, 0.4246086780669067) 40%, rgba(247, 143, 160, 0.5) 7%); background-blend-mode: soft-light,soft-light,hue,soft-light;
 }
 
 header, main, footer {
